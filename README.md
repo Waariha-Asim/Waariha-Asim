@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm <span style="font-size: 4em; font-weight: 900;">Waariha Asim Sheikh 🚀 </span></h1>
+<h1 align="center"> ✨ Hi! I'm <span style="font-size: 4em; font-weight: 900;">Waariha Asim Sheikh </span></h1>
 
 ## 💫 About Me
 - 👩‍💻 I’m a Computer Science undergraduate with a strong academic background and a growing expertise in Artificial Intelligence and Machine Learning (AI/ML).
