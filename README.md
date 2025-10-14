@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 
-[![Waariha’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/YOUR_USERNAME)
+[![Waariha’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wariha-Asim&show_icons=true&theme=dark)](https://github.com/YOUR_USERNAME)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wariha-Asim&layout=compact&theme=dark)](https://github.com/YOUR_USERNAME)
 
