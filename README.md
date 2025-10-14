@@ -1,9 +1,12 @@
-## 💫 About Me:
-👩‍💻 Hi, I'm Waariha Asim, a Computer Science undergraduate with a strong academic background and a growing expertise in Artificial Intelligence and Machine Learning (AI/ML).  
-🚀 I build and understand ML models, skilled in supervised & unsupervised learning, data preprocessing, and model evaluation.  
-🤖 I leverage Python AI/ML libraries like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and exploring CNNs, TensorFlow & PyTorch.  
-💼 I am skilled in n8n for workflow automation, integrating AI tools to enhance productivity.  
-💻 Front-End Development: Experienced in building responsive web applications with HTML, CSS, JavaScript, React.js
+## About Me
+
+👋 <h2 align="center">Hi! I'm <span style="font-size: 2em; font-weight: bold;">Waariha Asim</span></h2>
+
+👩‍💻 I’m a Computer Science undergraduate with a strong academic background and a growing expertise in Artificial Intelligence and Machine Learning (AI/ML).
+🚀 I build and understand ML models, skilled in supervised & unsupervised learning, data preprocessing, and model evaluation.
+🤖 I leverage Python AI/ML libraries like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and exploring CNNs, TensorFlow & PyTorch.
+💼 I’m skilled in n8n workflow automation, integrating AI tools to enhance productivity.
+💻 Front-End Development: Experienced in building responsive web applications using HTML, CSS, JavaScript, React.js.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/warihaasim) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wariha-Asim) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:warihaasim@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/waarihaasim)
