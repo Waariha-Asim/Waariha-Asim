@@ -1,6 +1,6 @@
 ## About Me
 
-👋 <h2 align="center">Hi! I'm <span style="font-size: 2em; font-weight: bold;">Waariha Asim</span></h2>
+ <h2 align="center"> 👋 Hi! I'm <span style="font-size: 2em; font-weight: bold;">Waariha Asim</span></h2>
 
 👩‍💻 I’m a Computer Science undergraduate with a strong academic background and a growing expertise in Artificial Intelligence and Machine Learning (AI/ML).
 🚀 I build and understand ML models, skilled in supervised & unsupervised learning, data preprocessing, and model evaluation.
