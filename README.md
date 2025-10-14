@@ -21,11 +21,8 @@
 - 🎓 Top Scorer in Matriculation – 97.29%, recognized for outstanding academic performance
 - 🚀 Participated in multiple Kaggle competitions, uploaded publicly documented ML notebooks, actively contributed on forums earning several badges, and completed certified ML courses.
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wariha-Asim&show_icons=true&theme=dark&hide_border=false&rank_icon=percentile" alt="Wariha Asim's GitHub Stats" width="49%" style="margin-right: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wariha-Asim&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="49%" style="margin-left: 5px;"/>
-</p>
+![Wariha Asim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wariha-Asim&show_icons=true&theme=dark&hide_border=false&rank_icon=percentile)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wariha-Asim&layout=compact&theme=dark&hide_border=false)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wariha-Asim&theme=dark&hide_border=false)
