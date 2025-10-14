@@ -20,3 +20,10 @@
 ## 🏆 Achievements:
 - 🎓 Top Scorer in Matriculation – 97.29%, recognized for outstanding academic performance
 - 🚀 Participated in multiple Kaggle competitions, uploaded publicly documented ML notebooks, actively contributed on forums earning several badges, and completed certified ML courses.
+
+## 📊 GitHub Stats
+
+[![Waariha’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/YOUR_USERNAME)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/YOUR_USERNAME)
+
