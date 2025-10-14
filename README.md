@@ -23,12 +23,6 @@
 
 ## 📊 GitHub Stats:
 
-![Wariha Asim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wariha-Asim&show_icons=true&theme=dark&hide_border=false&rank_icon=percentile)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wariha-Asim&layout=compact&theme=dark&hide_border=false)
-
-## 💫 GitHub Stats:
-
-## 💫 GitHub Stats:
-
 ![Wariha Asim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wariha-Asim&show_icons=true&theme=dark&hide_border=false&rank_icon=percentile)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wariha-Asim&layout=compact&theme=dark&hide_border=false)
