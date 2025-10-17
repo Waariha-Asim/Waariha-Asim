@@ -28,6 +28,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wariha-Asim&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
-
-
-
