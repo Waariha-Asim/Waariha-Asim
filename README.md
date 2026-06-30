@@ -6,7 +6,7 @@
 * 🚀 Experienced in **Generative AI, LLMs, AI Agents, Prompt Engineering, AI Automation, Workflow Automation (n8n), Machine Learning, NLP, and API Integration**.
 * 🐍 Proficient in **Python**, **Google Gemini APIs**, **NumPy**, **Pandas**, **Scikit-learn**, and **REST APIs**.
 * ⚙️ Built projects including **GlotSpeak**, **AI CRM Automation**, **AI Voice Agents**, **HeartGuard AI**, and **Phishing Website Detection AI**.
-* 💻 Skilled in **React.js, TypeScript, JavaScript, HTML, CSS, Node.js, Express.js, Django, MongoDB, SQL, Git, and GitHub**.
+* 💻 Skilled in building responsive and interactive web applications using HTML, CSS, JavaScript, React.js.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/warihaasim) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Waariha-Asim) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:warihaasim@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/waarihaasim)
