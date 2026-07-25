@@ -1,31 +1,117 @@
-<h1 align="center"> ✨Hi! I'm <span style="font-size: 4em; font-weight: 900;">Waariha Asim Sheikh </span></h1>
+<h1 align="center">✨ Hi, I'm <strong>Waariha Asim Sheikh</strong></h1>
 
-## 💫 About Me
-* 🤖 I'm an **Artificial Intelligence Engineer** with experience building AI-powered applications, AI agents, and workflow automation solutions.
-* 🎓 I'm a **Computer Science undergraduate** with a **GPA of 3.91** and a merit scholarship for academic excellence.
-* 🚀 Experienced in **Generative AI, LLMs, AI Agents, Prompt Engineering, AI Automation, Workflow Automation (n8n), Machine Learning, NLP, and API Integration**.
-* 🐍 Proficient in **Python**, **Google Gemini APIs**, **NumPy**, **Pandas**, **Scikit-learn**, and **REST APIs**.
-* ⚙️ Built projects including **GlotSpeak**, **AI CRM Automation**, **AI Voice Agents**, **HeartGuard AI**, and **Phishing Website Detection AI**.
-* 💻 Skilled in building responsive and interactive web applications using HTML, CSS, JavaScript, React.js.
+<p align="center">
+  <strong>Artificial Intelligence Engineer | AI Automation Engineer | Generative AI Engineer</strong>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/warihaasim) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Waariha-Asim) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:warihaasim@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/waarihaasim)
+<p align="center">
+  Building production-ready AI applications, LLM-powered systems, conversational AI, and intelligent workflow automation.
+</p>
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white). ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/waarihaasim">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Waariha-Asim">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:warihaasim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/waarihaasim">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://www.glotspeak.com">
+    <img src="https://img.shields.io/badge/GlotSpeak-Live%20Project-brightgreen?style=for-the-badge"/>
+  </a>
+</p>
 
-## 🎓 Education:
-- 🏫 Karachi Institute of Economics & Technology (KIET) University – Bachelor's in Computer Science (BSCS)
-- 🎯CGPA: 3.75 / 4.00
-- 🎯GPA: 3.91 / 4.00
+---
 
-## 🏆 Achievements:
-- 🎓 Top Scorer in Matriculation – 97.29%, recognized for outstanding academic performance
-- 🚀 Participated in multiple Kaggle competitions, uploaded publicly documented ML notebooks, actively contributed on forums earning several badges, and completed certified ML courses.
+# 💫 About Me
 
-## 📊 GitHub Stats:
+- 🤖 **Artificial Intelligence Engineer at LA Consulting Corporation**, building production-ready LLM-powered applications, conversational AI systems, AI agents, and intelligent workflow automation.
+- 🚀 **Led the end-to-end development** of **[GlotSpeak](https://www.glotspeak.com)** — a live AI-powered language learning platform featuring multilingual AI conversations, AI interview simulation, Speech Recognition, and Text-to-Speech (TTS) using React.js, TypeScript, Node.js, MongoDB, Gemini API, and Grok API.
+- ⚙️ Designed and deployed **10+ AI-powered n8n automation workflows** integrating Google Gemini, CRM platforms, and Google Workspace APIs.
+- 💡 Passionate about **Generative AI, Prompt Engineering, AI Automation, Voice AI, NLP, Machine Learning, and Full-Stack AI Application Development.**
+- 🎓 Pursuing a **Bachelor of Science in Computer Science** at **Karachi Institute of Economics & Technology (KIET)** (CGPA: **3.76/4.00**) | **40% Merit Scholarship**.
 
-![Wariha Asim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waariha-Asim&show_icons=true&theme=dark&hide_border=false&rank_icon=percentile) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waariha-Asim&layout=compact&theme=dark&hide_border=false&hide=jupyter%20notebook)
+---
+
+# 🏆 Achievements
+
+- 🤖 **Top Contributor** — Elevvo Pathways NLP Internship, recognized for building transformer-based Question Answering systems using DistilBERT and RoBERTa.
+- 💻 **Top-performing student in core Computer Science and programming courses** at Karachi Institute of Economics & Technology (KIET).
+- 🎓 Awarded a **40% Merit Scholarship** at Karachi Institute of Economics & Technology (KIET) for consistent academic excellence.
+- 📊 Active **Kaggle** contributor with Machine Learning notebooks, competitions, certifications, and community badges.
+- 🥇 **Top Scorer in Matriculation**, achieving **97.29%** and recognized for outstanding academic performance.
+
+---
+
+# 💻 Tech Stack
+
+### 🤖 AI & Generative AI
+
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00897B?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-E53935?style=for-the-badge)
+![Conversational AI](https://img.shields.io/badge/Conversational_AI-5E35B1?style=for-the-badge)
+![Voice AI](https://img.shields.io/badge/Voice_AI-26A69A?style=for-the-badge)
+![Speech Recognition](https://img.shields.io/badge/Speech_Recognition-43A047?style=for-the-badge)
+![Text-to-Speech](https://img.shields.io/badge/Text_to_Speech-F57C00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-7B1FA2?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Grok API](https://img.shields.io/badge/Grok_API-000000?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 💻 Programming & Full-Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 📊 Machine Learning & Deep Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🛠️ Databases & Deployment
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🎓 Education
+
+- 🏫 **Karachi Institute of Economics & Technology (KIET)** – Bachelor of Science in Computer Science (BSCS)
+- 🎓 **CGPA:** **3.76 / 4.00**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Waariha-Asim&show_icons=true&theme=dark&hide_border=false&rank_icon=percentile" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waariha-Asim&layout=compact&theme=dark&hide_border=false&hide=jupyter%20notebook" alt="Top Languages"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waariha-Asim&theme=dark&hide_border=false" alt="GitHub Streak"/>
