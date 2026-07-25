@@ -109,6 +109,14 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waariha-Asim&show_icons=true&theme=dark&rank_icon=percentile" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waariha-Asim&layout=compact&theme=dark&hide=jupyter%20notebook" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Waariha-Asim&show_icons=true&theme=dark&rank_icon=percentile"
+    alt="Waariha's GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waariha-Asim&layout=compact&theme=dark&hide=jupyter%20notebook"
+    alt="Top Languages"
+    height="170"
+  />
 </p>
