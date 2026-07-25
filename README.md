@@ -106,13 +106,8 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waariha-Asim&show_icons=true&theme=dark&hide_border=false&rank_icon=percentile" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waariha-Asim&layout=compact&theme=dark&hide_border=false&hide=jupyter%20notebook" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waariha-Asim&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waariha-Asim&theme=github_dark" />
 </p>
