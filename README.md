@@ -106,8 +106,8 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waariha-Asim&theme=github-dark" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waariha-Asim&theme=github_dark" alt="GitHub Profile Summary"/>
 </p>
