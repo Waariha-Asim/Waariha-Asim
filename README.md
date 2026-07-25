@@ -8,6 +8,8 @@
   Building production-ready AI applications, LLM-powered systems, conversational AI, and intelligent workflow automation.
 </p>
 
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/waarihaasim">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,9 +22,6 @@
   </a>
   <a href="https://www.kaggle.com/waarihaasim">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://www.glotspeak.com">
-    <img src="https://img.shields.io/badge/GlotSpeak-Live%20Project-brightgreen?style=for-the-badge"/>
   </a>
 </p>
 
@@ -109,10 +108,6 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waariha-Asim&show_icons=true&theme=dark&hide_border=false&rank_icon=percentile" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waariha-Asim&layout=compact&theme=dark&hide_border=false&hide=jupyter%20notebook" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waariha-Asim&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Waariha-Asim&show_icons=true&theme=dark&rank_icon=percentile" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waariha-Asim&layout=compact&theme=dark&hide=jupyter%20notebook" />
 </p>
