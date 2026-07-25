@@ -24,7 +24,7 @@
 # 💫 About Me
 
 - 🤖 **Artificial Intelligence Engineer at LA Consulting Corporation**, building production-ready LLM-powered applications, conversational AI systems, AI agents, and intelligent workflow automation.
-- 🚀 **Led the end-to-end development** of **[GlotSpeak](https://www.glotspeak.com)** — a live AI-powered language learning platform featuring multilingual AI conversations, AI interview simulation, Speech Recognition, and Text-to-Speech (TTS) using React.js, TypeScript, Node.js, MongoDB, Gemini API, and Grok API.
+- 🚀 **Led the end-to-end development** of **[GlotSpeak](https://www.glotspeak.com)** — a live AI-powered language learning platform featuring multilingual AI conversations, AI interview simulation, Speech Recognition, and Text-to-Speech (TTS) using React.js, TypeScript, Node.js, MongoDB, Gemini API, and Groq API.
 - ⚙️ Designed and deployed **10+ AI-powered n8n automation workflows** integrating Google Gemini, CRM platforms, and Google Workspace APIs.
 - 💡 Passionate about **Generative AI, Prompt Engineering, AI Automation, Voice AI, NLP, Machine Learning, and Full-Stack AI Application Development.**
 - 🎓 Pursuing a **Bachelor of Science in Computer Science** at **Karachi Institute of Economics & Technology (KIET)** (CGPA: **3.76/4.00**) | **40% Merit Scholarship**.
@@ -33,9 +33,9 @@
 
 # 🏆 Achievements
 
-- 🤖 **Top Contributor** — Elevvo Pathways NLP Internship, recognized for building transformer-based Question Answering systems using DistilBERT and RoBERTa.
-- 💻 **Top-performing student in core Computer Science and programming courses** at Karachi Institute of Economics & Technology (KIET).
-- 🎓 Awarded a **40% Merit Scholarship** at Karachi Institute of Economics & Technology (KIET) for consistent academic excellence.
+- 🤖 **Top Contributor** — Elevvo Pathways NLP Internship.
+- 💻 **Top-performing student in core Computer Science and programming courses** at **KIET**.
+- 🎓 Awarded a **40% Merit Scholarship** at **KIET** for consistent academic excellence.
 - 📊 Active **Kaggle** contributor with Machine Learning notebooks, competitions, certifications, and community badges.
 - 🥇 **Top Scorer in Matriculation**, achieving **97.29%** and recognized for outstanding academic performance.
 
@@ -56,7 +56,7 @@
 ![NLP](https://img.shields.io/badge/NLP-7B1FA2?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Grok API](https://img.shields.io/badge/Grok_API-000000?style=for-the-badge)
+![Groq API](https://img.shields.io/badge/Grok_API-000000?style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 💻 Programming & Full-Stack
