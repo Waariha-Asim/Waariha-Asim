@@ -101,7 +101,7 @@
 
 ## 🎓 Education
 
-- 🏫 **Karachi Institute of Economics & Technology (KIET)** – Bachelor of Science in Computer Science (BSCS)
+- 🏫 **Karachi Institute of Economics & Technology (KIET)** – Bachelor's of Science in Computer Science (BSCS)
 - 🎓 **CGPA:** **3.76 / 4.00**
 
 ---
