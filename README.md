@@ -27,7 +27,7 @@
 - 🚀 **Led the end-to-end development** of **[GlotSpeak](https://www.glotspeak.com)** — a live AI-powered language learning platform featuring multilingual AI conversations, AI interview simulation, Speech Recognition, and Text-to-Speech (TTS) using React.js, TypeScript, Node.js, MongoDB, Gemini API, and Groq API.
 - ⚙️ Designed and deployed **10+ AI-powered n8n automation workflows** integrating Google Gemini, CRM platforms, and Google Workspace APIs.
 - 💡 Passionate about **Generative AI, Prompt Engineering, AI Automation, Voice AI, NLP, Machine Learning, and Full-Stack AI Application Development.**
-- 🎓 Pursuing a **Bachelor of Science in Computer Science** at **Karachi Institute of Economics & Technology (KIET)** (CGPA: **3.76/4.00**) | **40% Merit Scholarship**.
+- 🎓 Pursuing a **BS in Computer Science** at **KIET** (CGPA: **3.76/4.00**) | **40% Merit Scholarship**.
 
 ---
 
