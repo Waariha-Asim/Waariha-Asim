@@ -109,8 +109,10 @@
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waariha-Asim&theme=github_dark" alt="GitHub Stats" width="400" />
-  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waariha-Asim&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Waariha-Asim&theme=github-dark&hide_border=true&card_width=470&card_height=185&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 </p>
 
