@@ -1,7 +1,9 @@
 <h1 align="center"><strong> Waariha Asim Sheikh</strong></h1>
 
 <p align="center">
-  <strong>Artificial Intelligence Engineer | AI Automation Engineer | Generative AI Engineer</strong>
+  <img src="https://img.shields.io/badge/AI%20Engineer-0D0015?style=for-the-badge&logo=openai&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/AI%20Automation%20Engineer-0D0015?style=for-the-badge&logo=n8n&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Generative%20AI%20Engineer-0D0015?style=for-the-badge&logo=googlegemini&logoColor=58A6FF"/>
 </p>
 
 <p align="center">
