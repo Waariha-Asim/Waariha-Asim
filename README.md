@@ -1,9 +1,9 @@
 <h1 align="center"><strong> Waariha Asim Sheikh</strong></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖%20AI%20Engineer-1C1C1C?style=for-the-badge&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/⚙️%20AI%20Automation%20Engineer-1C1C1C?style=for-the-badge&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/✨%20Generative%20AI%20Engineer-1C1C1C?style=for-the-badge&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/🤖%20AI%20Engineer-0D0015?style=for-the-badge&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/⚙️%20AI%20Automation%20Engineer-0D0015?style=for-the-badge&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/✨%20Generative%20AI%20Engineer-0D0015?style=for-the-badge&logoColor=58A6FF"/>
 </p>
 
 <p align="center">
