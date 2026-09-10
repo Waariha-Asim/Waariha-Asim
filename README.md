@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waariha-Asim&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Waariha-Asim&hide_border=false&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=58A6FF&sideNums=58A6FF&card_width=470&card_height=170" height="170" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Waariha-Asim&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&utcOffset=5" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
