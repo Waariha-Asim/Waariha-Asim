@@ -56,10 +56,10 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waariha-Asim&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2E6DB4&text_color=2E6DB4&icon_color=2E6DB4" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Waariha-Asim&hide_border=true&background=0D1117&stroke=1E3A5F&ring=2E6DB4&fire=2E6DB4&currStreakLabel=2E6DB4&sideLabels=2E6DB4&dates=2E6DB4&currStreakNum=FFFFFF&sideNums=FFFFFF&card_width=470&card_height=170" height="170" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waariha-Asim&theme=github_dark&hide_border=true&bg_color=0D1B2A" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Waariha-Asim&hide_border=true&background=0D1B2A&stroke=1E3A5F&ring=2E6DB4&fire=2E6DB4&currStreakLabel=2E6DB4&sideLabels=6B8CAE&dates=6B8CAE&currStreakNum=FFFFFF&sideNums=FFFFFF&card_width=470&card_height=170" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://gh-heat.anishroy.com/api/Waariha-Asim/svg?theme=blue&darkMode=true&bg=0D1117" alt="Contribution Heatmap" />
+  <img src="https://gh-heat.anishroy.com/api/Waariha-Asim/svg?theme=blue&darkMode=true&bg=0D1B2A" alt="Contribution Heatmap" />
 </p>
