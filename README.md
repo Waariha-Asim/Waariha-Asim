@@ -55,11 +55,13 @@
 
 ## 📊 GitHub Activity
 
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waariha-Asim&theme=nord_dark&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Waariha-Asim&theme=github-dark&hide_border=true&background=1E2A3A&stroke=2D3F55&ring=5B9BD5&fire=5B9BD5&currStreakLabel=5B9BD5&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&card_width=470&card_height=170" height="170" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waariha-Asim&theme=github_dark&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Waariha-Asim&hide_border=true&background=0D1B2A&stroke=1E3A5F&ring=2E6DB4&fire=2E6DB4&currStreakLabel=2E6DB4&sideLabels=6B8CAE&dates=6B8CAE&currStreakNum=FFFFFF&sideNums=FFFFFF&card_width=470&card_height=170" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://gh-heat.anishroy.com/api/Waariha-Asim/svg?theme=grey&darkMode=true" alt="Contribution Heatmap" />
+  <img src="https://gh-heat.anishroy.com/api/Waariha-Asim/svg?theme=blue&darkMode=true" alt="Contribution Heatmap" />
 </p>
